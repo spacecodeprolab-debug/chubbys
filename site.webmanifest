@@ -1,0 +1,9 @@
+{
+  "name": "Chubby’s, The Dessert Studio",
+  "short_name": "Chubby’s",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBEADB",
+  "theme_color": "#B02F2C",
+  "lang": "en-IN"
+}
